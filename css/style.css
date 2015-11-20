@@ -89,7 +89,7 @@ h1 {
   -ms-transform: translateZ(-1px) scale(2);
   transform: translateZ(-1px) scale(2);
   background-image: url("../imgs/front.png");
-  margin-top: 100%;
+  margin-top: 70%;
   z-index: -3;
 }
 
@@ -99,7 +99,7 @@ h1 {
   -ms-transform: translateZ(-2px) scale(3);
   transform: translateZ(-2px) scale(3);
   background-image: url("../imgs/mid.png");
-  margin-top: 143%;
+  margin-top: 98%;
   z-index: -4;
 }
 
@@ -109,7 +109,7 @@ h1 {
   -ms-transform: translateZ(-3px) scale(4);
   transform: translateZ(-3px) scale(4);
   background-image: url("../imgs/back.png");
-  margin-top: 145%;
+  margin-top: 95%;
   z-index: -5;
 }
 
