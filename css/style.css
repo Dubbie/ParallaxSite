@@ -119,7 +119,7 @@ h1 {
   -ms-transform: translateZ(-4px) scale(5);
   transform: translateZ(-4px) scale(5);
   background-image: url("../imgs/moon.png");
-  margin-top: 25%;
+  margin-top: 0%;
   z-index: -6;
 }
 
